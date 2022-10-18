@@ -13,7 +13,8 @@ A chat application using socket.io and express.js.
 * Image sending support
 
 ### UI PREVIEW
-###### UI Page
-![UI](https://user-images.githubusercontent.com/115449110/196510912-4d6d1ada-a82c-407a-814a-b3df114a9697.png)
 ###### Login Page
 ![login](https://user-images.githubusercontent.com/115449110/196510920-bc487b4d-bea1-4519-9f44-3bfabb2f7d99.png)
+
+###### UI Page
+![UI](https://user-images.githubusercontent.com/115449110/196510912-4d6d1ada-a82c-407a-814a-b3df114a9697.png)
